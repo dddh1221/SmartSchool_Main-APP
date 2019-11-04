@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">인마고 2.0</string>
+    <string-array name="attendance_array">
+        <item>출석</item>
+        <item>외출</item>
+        <item>결석</item>
+        <item>병결</item>
+    </string-array>
+</resources>

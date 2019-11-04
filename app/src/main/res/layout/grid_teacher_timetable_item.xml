@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/timetable_grid_background"
+    android:layout_gravity="center"
+    android:layout_margin="1dp"
+    android:gravity="center">
+
+    <TextView
+        android:id="@+id/grid_item_teacher_subjectName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="과목명"
+        android:textStyle="bold"
+        android:singleLine="true"
+        android:ellipsize="marquee"
+        android:textSize="15sp"/>
+
+    <TextView
+        android:id="@+id/grid_item_teacher_classroom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="실습실"
+        android:singleLine="true"
+        android:ellipsize="marquee"
+        android:textSize="13sp"/>
+
+</LinearLayout>
