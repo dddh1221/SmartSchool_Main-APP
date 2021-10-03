@@ -6,7 +6,7 @@
 - IoT와 스마트폰을 이용해 학교 생활 속 불편한 점을 개선하고자 이 프로젝트를 시작하게 되었습니다.
 - **프로젝트 기간** : 2019년 3월 ~ 2019년 11월
 
-## Feature
+## Project Feature
 
 ![구상도](https://user-images.githubusercontent.com/57319751/135752060-de6911b1-0572-4a09-b4ce-d7ac2c2030fe.png)
 
@@ -30,6 +30,11 @@
     - **실시간 스쿨버스 위치** 확인
     - **가정통신문** 확인
 
+## APP Feature
+
+- Socket을 이용해 실시간 데이터 전송 및 수신
+- GridView를 이용해 시간표,  달력 표시
+- ListView를 이용해 출석 정보 표시
 
 ## Tech Stack
 
