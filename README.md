@@ -42,7 +42,7 @@
 - Socket (TCP)
 - Bluetooth API
 
-## Topology
+##  Topology
 학과 전체가 '스마트 시티' 플랫폼을 주제로 만들어 비슷한 플랫폼끼리 서버를 묶고 IP를 할당시킴. 이 후 포트번호로 서버를 구분.
 ![네트워크 세팅](https://user-images.githubusercontent.com/57319751/135755240-72da21d8-ee46-4260-a26d-bc42ed3b6d13.png)
 
